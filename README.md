@@ -1,2 +1,2 @@
 # GoogleMapsAPI
-Google Maps API integration with set user locations and travel options. 
+Google Maps API integration retrieves the users current location and has a set variety of destinations/travel options. 
